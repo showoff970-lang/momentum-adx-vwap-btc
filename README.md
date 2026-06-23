@@ -87,4 +87,4 @@ Suggestions:
 - Add a "logic trace" view that shows *why* each trade triggered (which condition was the deciding factor)
 - Allow multi-asset backtesting in one Playbook run
 
-**On agentic trading broadly:** The shift toward agents that manage full trade lifecycles — not just signal generation — is the right direction. The next frontier is agents that adjust their own parameters based on detected regime changes, not just follow fixed rules. That's where CycleMind is headed.
+**On agentic trading broadly:** The shift toward agents that manage full trade lifecycles — not just signal generation — is the right direction. The next frontier is agents that adjust their own parameters based on detected regime changes, not just follow fixed rules. 
