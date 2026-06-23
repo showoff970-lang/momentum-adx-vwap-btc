@@ -1,0 +1,3 @@
+timestamp_entry,timestamp_exit,pair,side,entry_price,exit_price,qty,pnl_usd,return_pct,holding_time,strategy,platform
+2026-06-04 01:00:00,2026-06-04 13:00:00,BTCUSDT,short,63557.60,63741.90,0.16700000,-41.41,-0.29%,12h 0m,Momentum ADX-VWAP Trend Rider,Bitget Paper Trading
+2026-06-22 01:00:00,2026-06-22 01:00:00,BTCUSDT,short,63477.10,63477.10,0.39300000,-24.95,0.00%,0m,Momentum ADX-VWAP Trend Rider,Bitget Paper Trading
